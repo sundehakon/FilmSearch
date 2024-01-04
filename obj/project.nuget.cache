@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EHVUI/vqBExY4pGjXr0RTnzz3OsKWGfuVQbckJpFdyG/RmMi6nqaO+xQ5LyMlJc58olqh4m9oF1X1VweCjSj6A==",
+  "dgSpecHash": "ohJLubWF7aSyZGj7V8ncP22r0aupEAmuk2cb1/faioiBZTF+4EEqKstYltXrkKzjNYDKyhUrJYy8wjtPQyltHA==",
   "success": true,
-  "projectFilePath": "/Users/sundehakon/Documents/FilmSearch/FilmSearch.csproj",
+  "projectFilePath": "/Users/sundehakon/Documents/FilmSearch/FilmSearch/FilmSearch.csproj",
   "expectedPackageFiles": [
     "/Users/sundehakon/.nuget/packages/microsoft.aspnetcore.authorization/6.0.7/microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "/Users/sundehakon/.nuget/packages/microsoft.aspnetcore.components/6.0.7/microsoft.aspnetcore.components.6.0.7.nupkg.sha512",
